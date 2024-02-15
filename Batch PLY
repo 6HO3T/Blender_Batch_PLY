@@ -5,7 +5,9 @@ bl_info = {
     "blender": (4, 0, 0),
     "location": "File > Import-Export",
     "description": "Batch import PLY files from a folder, apply transformations, and export them as Collada DAE to another folder",
-    "category": "Import-Export"
+    "category": "Import-Export",
+    "doc_url": "https://github.com/6HO3T/Blender_Batch_PLY",
+    "tracker_url": "https://github.com/6HO3T/Blender_Batch_PLY/issues"
 }
 
 
