@@ -162,9 +162,6 @@ def unregister():
     del bpy.types.Scene.rotation_angle_x
     del bpy.types.Scene.rotation_angle_y
     del bpy.types.Scene.rotation_angle_z
-    del bpy.types.Scene.location_x
-    del bpy.types.Scene.location_y
-    del bpy.types.Scene.location_z
 
 
 if __name__ == "__main__":
