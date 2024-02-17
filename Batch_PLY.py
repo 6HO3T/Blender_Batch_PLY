@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Batch PLY",
     "author": "Philip McCloskey",
-    "version": (0, 1),
+    "version": (0, 2),
     "blender": (4, 0, 0),
     "location": "File > Import-Export",
     "description": "Batch import PLY files from a folder, apply transformations, and export them as Collada DAE to another folder",
